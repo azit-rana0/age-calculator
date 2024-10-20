@@ -1,0 +1,42 @@
+/* Start Creating Responsive */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    input, button {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    label {
+        font-size: 12px;
+    }
+
+    input, button {
+        font-size: 12px;
+        padding: 6px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .container {
+        padding: 15px;
+    }
+}
