@@ -10,7 +10,7 @@ A simple age calculator web application built with HTML, CSS, and JavaScript. Us
 
 ## Live Demo
 
-[Link to the live demo](#) (If you have hosted your project, you can add a link here)
+[Link to the live demo](https://azit-rana0.github.io/age-calculator/)
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ To run the project locally, you only need a web browser.
 
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/azit-rana0/age-calculator
 
 2. Navigate to the project directory:
     ```bash
@@ -64,7 +64,7 @@ To run the project locally, you only need a web browser.
 
 2. In Tablet
 
-   ![laptop](./assets/laptop.png)
+   ![laptop](./assets/tablet.png)
 
 3. In Mobile
 
